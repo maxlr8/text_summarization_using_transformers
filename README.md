@@ -1,6 +1,6 @@
 # text_summarization_using_transformers
 
-An experimentation to compare different text summarization using transformer models.
+An experimentation to compare different text summarization using different state-of-the-art transformer models.
 
 There are 6 different summarization models that has been tested for this application, including transformer-based models pre-trained on large corpora. 
 
